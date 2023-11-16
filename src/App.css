@@ -1,4 +1,6 @@
 body {
-  background-color: grey;
+  background-color: #f2d5ce;
   font-size: large;
+  display: flex;
+  justify-content: center;
 }

@@ -5,7 +5,7 @@ import './App.css';
 const App = () => {
   return (
     <>
-      <h1>React Bases</h1>
+      <h1>React Basic Calculator</h1>
       <Counter initialValue={0}/>
     </>
   );
